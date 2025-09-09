@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kamil 👋
 
-<!--
-**kamil-engineer/kamil-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer documenting my coding journey and building small projects along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+- HTML & CSS
+- Git & GitHub
+- VSCode
+
+---
+
+## 📚 Learning Journey
+- Daily coding practice & journaling  
+- Building mini projects in Web Dev  
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kamil-engineer&show_icons=true&count_private=true&theme=radical)
+
+---
