@@ -20,4 +20,6 @@ I'm an aspiring software developer documenting my coding journey and building sm
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kamil-engineer&show_icons=true&count_private=true&theme=radical)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-engineer&&theme=radical" alt="kamil-engineer" />
+
 ---
